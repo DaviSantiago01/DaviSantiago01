@@ -1,116 +1,113 @@
 <div align="center">
 
-# 👋 Oi! Eu sou o Davi
+# 👋 Davi Santiago
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Estudante+de+CC+na+C%C3%A9sar+School;Aprendendo+Python+e+IA;Automatizando+porque+sou+pregui%C3%A7oso" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Python+Developer;AI+%26+Automation" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🧑‍💻 Quem sou eu
+## 🎓 Sobre
 
-Estudo Ciência da Computação na **César School** (4º período) e curto muito mexer com código. Comecei com Python e me viciei - hoje uso pra tudo, desde organizar meus arquivos até criar sistema com IA.
+Estudante de Ciência da Computação na **César School** (4º período), desenvolvendo soluções com Python, Inteligência Artificial e automação. Focado em criar projetos que resolvem problemas reais através de tecnologia.
 
-- 🎓 **Estudando:** Ciência da Computação (4º período) - César School
-- 🐍 **Linguagem favorita:** Python (óbvio)
-- 🤖 **Interesse atual:** Machine Learning e LLMs
-- 📍 **Localização:** Recife, PE
-- 🎯 **Meta:** Virar um dev que resolve problemas reais
+- 🎯 **Foco:** Python Development, Machine Learning, Process Automation
+- 🏫 **Instituição:** César School - Ciência da Computação (4º período)
+- 📍 **Localização:** Recife, Pernambuco, Brasil
+- 🚀 **Objetivo:** Contribuir para projetos inovadores em IA e automação
 
 ---
 
-## 🛠️ O que eu uso
+## 🛠️ Tech Stack
 
 ### **Linguagens**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Ferramentas que salvo a vida**
+### **Frameworks & Libraries**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### **Tools & Platforms**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=database&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 📂 Meus Projetos
+## 🚀 Projetos
 
-### 🤖 **Sistema RAG com LangChain**
-Um sisteminha que responde perguntas sobre PDFs. Básicamente você joga um documento e ele vira um chatbot sobre aquele assunto.
+### **Sistema RAG com LangChain**
+Sistema de Retrieval-Augmented Generation para Q&A baseado em documentos PDF.
 
-**O que faz:** Lê PDFs, entende o conteúdo e responde suas perguntas
-**Tecnologias:** Python, LangChain, ChromaDB, OpenAI
-**Status:** Funcionando (e me orgulho disso!)
+**Tecnologias:** `Python` `LangChain` `ChromaDB` `OpenAI API`
 
-[![Ver Projeto](https://img.shields.io/badge/Ver%20Código-181717?style=flat-square&logo=github)](https://github.com/DaviSantiago01/Langchain-Rag-System)
+[![Repositório](https://img.shields.io/badge/Ver%20Código-181717?style=flat-square&logo=github)](https://github.com/DaviSantiago01/Langchain-Rag-System)
 
-### 📁 **Organizador de Downloads**
-Cansei de ter 500 arquivos bagunçados na pasta Downloads. Fiz um script que organiza tudo sozinho por tipo de arquivo.
+### **Organizador de Arquivos Python**
+Script de automação para organização inteligente de arquivos por categoria.
 
-**O que faz:** Pega todos os arquivos da Downloads e coloca cada um na pasta certa
-**Tecnologia:** Python puro (sem frescura)
-**Status:** Uso todo dia
+**Tecnologias:** `Python` `OS` `Pathlib`
 
-[![Ver Projeto](https://img.shields.io/badge/Ver%20Código-181717?style=flat-square&logo=github)](https://github.com/DaviSantiago01/Organizador-De-Arquivos-Py)
+[![Repositório](https://img.shields.io/badge/Ver%20Código-181717?style=flat-square&logo=github)](https://github.com/DaviSantiago01/Organizador-De-Arquivos-Py)
 
-### 🔍 **Clone do Perplexity**
-Tentei recriar o Perplexity usando LangGraph. Não ficou igual, mas funciona!
+### **Clone do Perplexity AI**
+Sistema de busca inteligente com integração de LLMs e APIs de pesquisa.
 
-**O que faz:** Busca na web e responde usando IA
-**Tecnologias:** Python, LangGraph, Ollama, Tavily
-**Status:** Projeto de estudo (aprendi muito)
+**Tecnologias:** `Python` `LangGraph` `Ollama` `Tavily API`
 
-[![Ver Projeto](https://img.shields.io/badge/Ver%20Código-181717?style=flat-square&logo=github)](https://github.com/DaviSantiago01/Perplexity-Clone-LangGraph)
+[![Repositório](https://img.shields.io/badge/Ver%20Código-181717?style=flat-square&logo=github)](https://github.com/DaviSantiago01/Perplexity-Clone-LangGraph)
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviSantiago01&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviSantiago01&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSantiago01&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSantiago01&layout=compact&theme=dark&count_private=true)
 
 </div>
 
 ---
 
-## 🎯 O que tô fazendo agora
+## 🎯 Atualmente
 
-- 📚 **Estudando:** Deep Learning (tentando entender as redes neurais)
-- 🔨 **Construindo:** Um projeto novo de análise de dados
-- 📖 **Lendo:** Documentação do LangChain (é muita coisa...)
-- 🎮 **Procrastinando:** Jogando uns jogos nas horas vagas
-
----
-
-## 💭 Filosofia
-
-> "Se você fez algo mais de duas vezes manualmente, automatize na terceira"
-
-Acredito que programação é sobre resolver problemas reais, não sobre mostrar que você sabe usar 50 frameworks diferentes. Prefiro fazer uma coisa bem feita do que dez pela metade.
+- 🔭 **Trabalhando em:** Projetos de Machine Learning aplicado
+- 🌱 **Aprendendo:** Deep Learning e Advanced LangChain
+- 💼 **Buscando:** Oportunidades de estágio em tecnologia
+- 🤝 **Aberto para:** Colaborações em projetos de IA e automação
 
 ---
 
-## 📞 Bora conversar?
+## 💡 Filosofia
 
-- 💼 **Portfolio:** [portfolio-davi-santiago.vercel.app](https://portfolio-davi-santiago.vercel.app)
-- 📧 **Email:** Manda uma mensagem que eu respondo
-- 🔗 **LinkedIn:** Vamos nos conectar
-- 🏠 **Perfil Principal:** [@daviscpr2](https://github.com/daviscpr2) - tem mais coisa lá
+> *"Se você fez algo mais de duas vezes manualmente, automatize na terceira"*
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-davi-santiago.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-santiago)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@exemplo.com)
+[![GitHub Principal](https://img.shields.io/badge/GitHub%20Principal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daviscpr2)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 "Coding is fun, learning is better"
-
-*Sempre tem algo novo pra aprender, sempre tem um problema novo pra resolver*
-
-⭐ Se curtiu algum projeto, deixa uma estrela aí!
+⭐ **Se meus projetos foram úteis, considere deixar uma estrela!**
 
 </div>
