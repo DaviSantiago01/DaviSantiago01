@@ -1,4 +1,4 @@
-markdown<div align="center">
+<div align="center">
 
 # 👋 Davi Santiago
 
@@ -24,12 +24,26 @@ developer = {
     "interests": ["Python", "AI/ML", "Automation", "Problem Solving"]
 }
 ```
-🛠️ Tech Stack
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-LanguagesAI & MLToolsShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow Image
+
+| **Languages** | **AI & ML** | **Tools** |
+|:---:|:---:|:---:|
+| ![Python](https://skillicons.dev/icons?i=python) | ![TensorFlow](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) | ![Git](https://skillicons.dev/icons?i=git) |
+| ![JavaScript](https://skillicons.dev/icons?i=js) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | ![VSCode](https://skillicons.dev/icons?i=vscode) |
+| ![HTML](https://skillicons.dev/icons?i=html) | ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=database&logoColor=white) | ![Docker](https://skillicons.dev/icons?i=docker) |
+| ![CSS](https://skillicons.dev/icons?i=css) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![GitHub](https://skillicons.dev/icons?i=github) |
+
 </div>
 
-🚀 Featured Projects
+---
+
+## 🚀 Featured Projects
+
 <div align="center">
 <table>
 <tr>
@@ -83,43 +97,67 @@ Something exciting is coming...
 </table>
 </div>
 
-📊 GitHub Analytics
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviSantiago01&show_icons=true&theme=react&count_private=true&include_all_commits=true&border_radius=10&border_color=61dafb" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSantiago01&layout=compact&theme=react&count_private=true&border_radius=10&border_color=61dafb" alt="Top Languages" />
 </div>
+
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviSantiago01&theme=react&border_radius=10&border=61dafb" alt="GitHub Streak" />
 </div>
 
-🎯 Currently
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" /> Working on: Machine Learning projects and automation tools
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" /> Learning: Deep Learning and Advanced AI techniques
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" /> Looking for: Internship opportunities in tech
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" /> Open to: Collaborate on AI and automation projects
+---
 
-💡 Philosophy
+## 🎯 Currently
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" /> **Working on:** Machine Learning projects and automation tools  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" /> **Learning:** Deep Learning and Advanced AI techniques  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" /> **Looking for:** Internship opportunities in tech  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" /> **Open to:** Collaborate on AI and automation projects
+
+---
+
+## 💡 Philosophy
+
 <div align="center">
 
-"Se você fez algo mais de duas vezes manualmente, automatize na terceira"
+> *"Se você fez algo mais de duas vezes manualmente, automatize na terceira"*
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 </div>
 
-📬 Let's Connect
+---
+
+## 📬 Let's Connect
+
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-davi-santiago.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-santiago-a94284334/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daaviisantiago@gmail.com)
+[![GitHub](https://img.shields.io/badge/Main_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daviscpr2)
+
 <br>
-💬 Let's talk about: Python • AI/ML • Automation • Tech Opportunities
+
+**💬 Let's talk about:** `Python` • `AI/ML` • `Automation` • `Tech Opportunities`
+
 </div>
 
+---
+
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" />
-Building the future, one line of code at a time
+
+**Building the future, one line of code at a time**
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Thanks" width="25" />
-Thanks for visiting! If you find my work interesting, consider ⭐ starring my repositories
+
+*Thanks for visiting! If you find my work interesting, consider ⭐ starring my repositories*
+
 </div>
-```
