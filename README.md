@@ -10,9 +10,7 @@
 
 ## 🧑‍💻 Quem sou eu
 
-Estudo Ciência da Computação na **César School** (4º período) e curto muito mexer com código. Comecei com Python e me viciei - hoje uso pra tudo, desde organizar meus arquivos até criar uns sistemazinhos de IA.
-
-Não sou expert em nada ainda, mas adoro aprender fazendo. Se dá pra automatizar, eu automatizo. Se dá pra usar IA pra resolver, eu tento. Às vezes dá certo, às vezes aprendo na pancada 😅
+Estudo Ciência da Computação na **César School** (4º período) e curto muito mexer com código. Comecei com Python e me viciei - hoje uso pra tudo, desde organizar meus arquivos até criar sistema com IA.
 
 - 🎓 **Estudando:** Ciência da Computação (4º período) - César School
 - 🐍 **Linguagem favorita:** Python (óbvio)
