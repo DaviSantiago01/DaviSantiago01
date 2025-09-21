@@ -11,15 +11,16 @@
 
 ## 📋 Sobre Mim
 
-Estudante de Ciência da Computação na CESAR School, 4º período, focado atualmente em estudar Python, criação de automações e agentes de IA.
+Estudante de Ciência da Computação na CESAR School, 4º período, especializado em **desenvolvimento Python** para automações e agentes de IA.
 
-Conhecimento em linguagens através de projetos da faculdade e projetos pessoais: Python, Java, C, React, TypeScript.
+**Principais habilidades Python:**
+- 🤖 Desenvolvimento de chatbots com LangChain
+- ⚙️ Automação de tarefas e processos
+- 🧠 Integração com APIs de IA (OpenAI, Groq)
+- 📊 Manipulação de dados e análise
+- 🌐 Desenvolvimento web com Streamlit e FastHTML
 
-Experiência com bancos de dados: Supabase, Firebase.
-
-Ferramentas de design e colaboração: Figma, Miro.
-
-Desenvolvendo projetos de agentes de IA e projetos de automatização de tarefas.
+Experiência complementar: Java, C, React, TypeScript | Bancos: Supabase, Firebase | Design: Figma, Miro
 
 Inglês - Intermediário.
 
@@ -27,62 +28,43 @@ Inglês - Intermediário.
 
 ## 🛠️ Habilidades
 
-**💻 Linguagens de Programação**
-- Python
-- Java
-- C
-- JavaScript
-- TypeScript
+**🐍 Python & IA**
+- 🤖 LangChain
+- 🚀 Groq API
+- 🧠 OpenAI API
+- 💬 Chatbots
+- 🤖 Agentes de IA
+- 📊 Streamlit
+- ⚡ FastHTML
+- 🔧 FastAPI
 
-**🤖 AI Engineering**
-- LangChain
-- Groq API
-- OpenAI API
-- Chatbots
-- Agentes de IA
+**💻 Outras Linguagens**
+- ☕ Java
+- 🔧 C
+- ⚛️ React
+- 📝 TypeScript
 
-**🌐 Frontend & Web**
-- React
-- Streamlit
-- HTML/CSS
-- FastHTML
-
-**🗄️ Bancos de Dados**
-- Supabase
-- Firebase
-
-**⚙️ Ferramentas**
-- Git/GitHub
-- Figma
-- Miro
-- FastAPI
+**🗄️ Dados & Ferramentas**
+- 🔥 Supabase
+- 🔥 Firebase
+- 🔧 Git/GitHub
+- 🎨 Figma
+- 📋 Miro
 
 ---
 
 ## 🚀 Projetos
 
 ### 🤖 Chatbot LangChain com Groq
-Meu primeiro chatbot LangChain com Groq está no ar! Uma implementação prática com LangChain, criando um chatbot conversacional com IA generativa pela Groq.
+Chatbot conversacional com IA generativa usando LangChain e Groq API.
 
-**💡 Principais Funcionalidades:**
-- Chat conversacional com IA
-- Interface web responsiva
-- Memória de conversação
-- Tratamento de erros
-
-**📚 Aprendizados Chave:**
-- LangChain Memory para diálogos contextuais
-- Session State para gerenciar sessão Streamlit
-- Arquitetura com LangChain
-- Implementação da Groq API
-
-**🔧 Tecnologias:** Python, LangChain, Streamlit, Groq API (modelo GPT OSS 20b)
+**Tecnologias:** Python, LangChain, Streamlit, Groq API
 
 [Ver no GitHub](https://github.com/DaviSantiago01)
 
 ### Outros Projetos
-- **[RAG System](https://github.com/DaviSantiago01/Langchain-Rag-System)** - Q&A com documentos PDF usando LangChain
-- **[Perplexity Clone](https://github.com/DaviSantiago01/Perplexity-Clone-LangGraph)** - Sistema de busca com IA e LangGraph
+- **[RAG System](https://github.com/DaviSantiago01/Langchain-Rag-System)** - Q&A com documentos PDF
+- **[Perplexity Clone](https://github.com/DaviSantiago01/Perplexity-Clone-LangGraph)** - Sistema de busca com IA
 
 ---
 
@@ -95,10 +77,10 @@ Meu primeiro chatbot LangChain com Groq está no ar! Uma implementação prátic
 
 ## 🎯 Atualmente
 
-- 🔭 Desenvolvendo agentes de IA e automações com LangChain
+- 🔭 Desenvolvendo agentes de IA com Python e LangChain
 - 📚 Estudando técnicas avançadas de IA
 - 💼 Buscando oportunidades de estágio em tecnologia
-- 🤝 Aberto para colaborações em projetos de IA e automação
+- 🤝 Aberto para colaborações em projetos Python e IA
 
 ---
 
