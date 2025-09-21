@@ -18,9 +18,9 @@ Desenvolvedor Python especializado em **Chatbots e Agentes de IA** com LangChain
 
 ```python
 dev_profile = {
-    "especialização": "Chatbots e Agentes de IA com LangChain",
+    "foco": "Chatbots e Agentes de IA com LangChain",
     "formação": "Ciência da Computação - CESAR School",
-    "foco": ["Python", "LangChain", "Automação", "IA Generativa"],
+    "tecnologias": ["Python", "LangChain", "Automação", "IA Generativa"],
     "localização": "Recife, PE"
 }
 ```
@@ -43,55 +43,42 @@ dev_profile = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos
 
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
+<h3 align="center">🤖 Chatbot LangChain</h3>
+<div align="center">
+<a href="https://github.com/DaviSantiago01" target="_blank"><img src="https://via.placeholder.com/300x150/0D1117/00D9FF?text=Chatbot+LangChain" style="border-radius:10px"></a>
+</div>
+<p align="center">
+Chatbot com LangChain e Groq
+<br>
+<code>Python</code> <code>LangChain</code> <code>Groq</code>
+</p>
+</td>
+<td width="33%">
 <h3 align="center">🤖 RAG System</h3>
 <div align="center">  
 <a href="https://github.com/DaviSantiago01/Langchain-Rag-System" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DaviSantiago01&repo=Langchain-Rag-System&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <p align="center">
-Sistema RAG para Q&A com documentos PDF
-<br><br>
-<code>Python</code> <code>LangChain</code> <code>ChromaDB</code> <code>OpenAI</code>
+Q&A com documentos PDF
+<br>
+<code>Python</code> <code>LangChain</code> <code>ChromaDB</code>
 </p>
 </td>
-<td width="50%">
-<h3 align="center">📁 File Organizer</h3>
-<div align="center">
-<a href="https://github.com/DaviSantiago01/Organizador-De-Arquivos-Py" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DaviSantiago01&repo=Organizador-De-Arquivos-Py&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<p align="center">
-Script de automação para organização de arquivos
-<br><br>
-<code>Python</code> <code>OS</code> <code>Pathlib</code> <code>Threading</code>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">🤖 Chatbot LangChain</h3>
-<div align="center">
-<a href="https://github.com/DaviSantiago01" target="_blank"><img src="https://via.placeholder.com/400x200/0D1117/00D9FF?text=Chatbot+LangChain+Groq" style="border-radius:10px"></a>
-</div>
-<p align="center">
-Chatbot inteligente com LangChain e Groq API
-<br><br>
-<code>Python</code> <code>LangChain</code> <code>Groq</code> <code>Streamlit</code>
-</p>
-</td>
-<td width="50%">
+<td width="33%">
 <h3 align="center">🔍 Perplexity Clone</h3>
 <div align="center">
 <a href="https://github.com/DaviSantiago01/Perplexity-Clone-LangGraph" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DaviSantiago01&repo=Perplexity-Clone-LangGraph&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <p align="center">
-Sistema de busca com IA e integração LLM
-<br><br>
-<code>Python</code> <code>LangGraph</code> <code>Ollama</code> <code>Tavily</code>
+Busca com IA e LLM
+<br>
+<code>Python</code> <code>LangGraph</code> <code>Ollama</code>
 </p>
 </td>
 </tr>
@@ -122,19 +109,13 @@ Sistema de busca com IA e integração LLM
 
 ---
 
-## 💡 Filosofia
-
 <div align="center">
-
-> *"Automatize na terceira repetição"*
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 </div>
 
 ---
 
-## 📬 Let's Connect
+## 📬 Contato
 
 <div align="center">
 
@@ -150,15 +131,3 @@ Sistema de busca com IA e integração LLM
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" />
-
-**Construindo o futuro, uma linha de código por vez**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Thanks" width="25" />
-
-*Obrigado pela visita! Se achou interessante, considere ⭐ nos repositórios*
-
-</div>
