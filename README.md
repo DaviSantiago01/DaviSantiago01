@@ -1,71 +1,186 @@
-# 👋 Davi Santiago
+```markdown
+# 👋 Olá, eu sou Davi Santiago
 
-**Desenvolvedor Python | Backend | Machine Learning | AI Agents | Automação**
+<div align="center">
 
-🎓 CESAR School | 📍 Recife, Pernambuco, Brasil
+### Desenvolvedor Python | Backend | Machine Learning | AI Agents | Automação
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-santiago-a94284334/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://portfolio-davi-santiago.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daaviisantiago@gmail.com)
+🎓 **CESAR School** | 📍 **Recife, PE, Brasil**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-santiago-a94284334/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-davi-santiago.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daaviisantiago@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaviSantiago01)
 
-## 📋 Sobre Mim
-
-Cursando 4º período em Ciência da Computação na CESAR School, com foco em **desenvolvimento Python** em backend, Machine Learning, Data Science e AI Agents. Experiência em criação de agentes de IA, análise de dados, automação de processos e desenvolvimento web.
-
-**Frameworks e Tecnologias:**
-- **Backend:** Django, Flask, FastAPI
-- **IA & ML:** LangChain, LangGraph, CrewAI, Scikit-learn
-- **Automação:** n8n
-- **Data Science:** Pandas, NumPy
-- **Frontend:** React, TypeScript
-
-**Stack Complementar:**
-- **Linguagens:** Java, C, JavaScript/TypeScript
-- **Bancos de dados:** PostgreSQL, SQLite, Supabase, Firebase
-- **Ferramentas:** Git/GitHub, Figma, Miro
-
-Inglês - Intermediário.
+</div>
 
 ---
 
-## 🛠️ Principais Competências
+## 🚀 Sobre Mim
 
-**Python** • **Backend** • **Aprendizado de Máquina** • **Agentes de IA** • **Análise de Dados**
+> Cursando **4º período** em Ciência da Computação na **CESAR School**, focado em criar soluções inteligentes com Python. Especializado em **backend**, **Machine Learning** e **AI Agents**.
+
+```python
+class DaviSantiago:
+    def __init__(self):
+        self.nome = "Davi Santiago"
+        self.curso = "Ciência da Computação - CESAR School"
+        self.periodo = "4º"
+        self.foco = ["Backend", "Machine Learning", "AI Agents", "Automação"]
+        self.idiomas = {"português": "nativo", "inglês": "intermediário"}
+    
+    def habilidades(self):
+        return {
+            "backend": ["Django", "Flask", "FastAPI"],
+            "ia_ml": ["LangChain", "LangGraph", "CrewAI", "Scikit-learn"],
+            "automacao": ["n8n"],
+            "data_science": ["Pandas", "NumPy"],
+            "frontend": ["React", "TypeScript"]
+        }
+```
 
 ---
 
-## 🚀 Projetos em Destaque
+## 💻 Tech Stack
 
-### 🤖 [RAG System](https://github.com/DaviSantiago01/Langchain-Rag-System)
-Sistema de Q&A com documentos PDF usando Retrieval-Augmented Generation.
+<div align="center">
 
-**Tecnologias:** Python, LangChain, RAG, Streamlit
+### Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🔍 [Perplexity Clone](https://github.com/DaviSantiago01/Perplexity-Clone-LangGraph)
-Clone do Perplexity com sistema de busca inteligente e IA generativa.
+### IA & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Tecnologias:** Python, LangGraph, LangChain, Groq API
+### Frontend & Outras Tecnologias
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 💬 [Chatbot LangChain com Groq](https://github.com/DaviSantiago01)
-Chatbot conversacional com IA generativa de alta performance.
-
-**Tecnologias:** Python, LangChain, Streamlit, Groq API
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Projetos em Destaque
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviSantiago01&show_icons=true&theme=react&count_private=true&border_radius=10)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSantiago01&layout=compact&theme=react&border_radius=10)
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🤖 RAG System</h3>
+<div align="center">
+<a href="https://github.com/DaviSantiago01/Langchain-Rag-System" target="_blank">
+<img src="https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"/>
+</a>
+<p>
+<strong>Sistema Q&A com PDFs</strong><br/>
+Retrieval-Augmented Generation para consultas inteligentes em documentos
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🔍 Perplexity Clone</h3>
+<div align="center">
+<a href="https://github.com/DaviSantiago01/Perplexity-Clone-LangGraph" target="_blank">
+<img src="https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"/>
+</a>
+<p>
+<strong>Busca Inteligente com IA</strong><br/>
+Sistema de busca avançado com IA generativa e LangGraph
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-FF6600?style=flat-square&logoColor=white"/>
+</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">💬 Chatbot Groq</h3>
+<div align="center">
+<a href="https://github.com/DaviSantiago01" target="_blank">
+<img src="https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"/>
+</a>
+<p>
+<strong>IA Conversacional</strong><br/>
+Chatbot de alta performance com Groq API e LangChain
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🚀 Em Desenvolvimento</h3>
+<div align="center">
+<p>
+<strong>Novos Projetos em Breve</strong><br/>
+Trabalhando em novas soluções com IA e automação
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Agents-00D9FF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-FFB800?style=flat-square&logoColor=white"/>
+</p>
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviSantiago01&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSantiago01&layout=compact&theme=tokyonight&border_radius=10&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaviSantiago01&theme=tokyonight&hide_border=true&border_radius=10)
+
+</div>
 
 ---
 
 ## 🎯 Atualmente
 
-🔭 Desenvolvendo agentes de IA e soluções backend com Python | 📚 Estudando técnicas avançadas de Machine Learning | 💼 Buscando oportunidades de estágio em tecnologia | 🤝 Aberto para colaborações em projetos Python e IA
+<div align="center">
+
+| 🔭 Desenvolvendo | 📚 Estudando | 💼 Buscando | 🤝 Aberto para |
+|:---:|:---:|:---:|:---:|
+| Agentes de IA com Python | ML Avançado | Estágio em Tech | Colaborações |
+
+</div>
 
 ---
 
-## 📞 Vamos Conectar?
+## 📫 Vamos Conversar?
 
-Estou sempre aberto a novos projetos e oportunidades de colaboração!
+<div align="center">
+
+**Estou sempre aberto a novos projetos e oportunidades de colaboração!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-santiago-a94284334/)
+[![Email](https://img.shields.io/badge/Email-Enviar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daaviisantiago@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-davi-santiago.vercel.app/)
+
+---
+
+⭐ **Deixe uma estrela nos repositórios se gostar do trabalho!** ⭐
+
+</div>
+```
