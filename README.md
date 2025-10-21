@@ -1,4 +1,3 @@
-```markdown
 # 👋 Olá, eu sou Davi Santiago
 
 <div align="center">
@@ -189,4 +188,3 @@ class DaviSantiago:
 ⭐ **Deixe uma estrela nos repositórios se gostar do trabalho!** ⭐
 
 </div>
-```
