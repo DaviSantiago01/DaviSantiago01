@@ -1,70 +1,55 @@
 # 👋 Davi Santiago
 
-**Desenvolvedor Python | Chatbots e Agentes de IA | LangChain | Automação**
+**Desenvolvedor Python | Backend | Machine Learning | AI Agents | Automação**
 
 🎓 CESAR School | 📍 Recife, Pernambuco, Brasil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/davi-santiago-a94284334/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-orange?style=flat&logo=web)](https://portfolio-davi-santiago.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-santiago-a94284334/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://portfolio-davi-santiago.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daaviisantiago@gmail.com)
 
 ---
 
 ## 📋 Sobre Mim
 
-Estudante de Ciência da Computação na CESAR School, 4º período, especializado em **desenvolvimento Python** para automações e agentes de IA.
+Cursando 4º período em Ciência da Computação na CESAR School, com foco em **desenvolvimento Python** em backend, Machine Learning, Data Science e AI Agents. Experiência em criação de agentes de IA, análise de dados, automação de processos e desenvolvimento web.
 
-**Principais habilidades Python:**
-- 🤖 Desenvolvimento de chatbots com LangChain
-- ⚙️ Automação de tarefas e processos
-- 🧠 Integração com APIs de IA (OpenAI, Groq)
-- 📊 Manipulação de dados e análise
-- 🌐 Desenvolvimento web com Streamlit e FastHTML
+**Frameworks e Tecnologias:**
+- **Backend:** Django, Flask, FastAPI
+- **IA & ML:** LangChain, LangGraph, CrewAI, Scikit-learn
+- **Automação:** n8n
+- **Data Science:** Pandas, NumPy
+- **Frontend:** React, TypeScript
 
-Experiência complementar: Java, C, React, TypeScript | Bancos: Supabase, Firebase | Design: Figma, Miro
+**Stack Complementar:**
+- **Linguagens:** Java, C, JavaScript/TypeScript
+- **Bancos de dados:** PostgreSQL, SQLite, Supabase, Firebase
+- **Ferramentas:** Git/GitHub, Figma, Miro
 
 Inglês - Intermediário.
 
 ---
 
-## 🛠️ Habilidades
+## 🛠️ Principais Competências
 
-**🐍 Python & IA**
-- 🤖 LangChain
-- 🚀 Groq API
-- 🧠 OpenAI API
-- 💬 Chatbots
-- 🤖 Agentes de IA
-- 📊 Streamlit
-- ⚡ FastHTML
-- 🔧 FastAPI
-
-**💻 Outras Linguagens**
-- ☕ Java
-- 🔧 C
-- ⚛️ React
-- 📝 TypeScript
-
-**🗄️ Dados & Ferramentas**
-- 🔥 Supabase
-- 🔥 Firebase
-- 🔧 Git/GitHub
-- 🎨 Figma
-- 📋 Miro
+**Python** • **Backend** • **Aprendizado de Máquina** • **Agentes de IA** • **Análise de Dados**
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos em Destaque
 
-### 🤖 Chatbot LangChain com Groq
-Chatbot conversacional com IA generativa usando LangChain e Groq API.
+### 🤖 [RAG System](https://github.com/DaviSantiago01/Langchain-Rag-System)
+Sistema de Q&A com documentos PDF usando Retrieval-Augmented Generation.
+
+**Tecnologias:** Python, LangChain, RAG, Streamlit
+
+### 🔍 [Perplexity Clone](https://github.com/DaviSantiago01/Perplexity-Clone-LangGraph)
+Clone do Perplexity com sistema de busca inteligente e IA generativa.
+
+**Tecnologias:** Python, LangGraph, LangChain, Groq API
+
+### 💬 [Chatbot LangChain com Groq](https://github.com/DaviSantiago01)
+Chatbot conversacional com IA generativa de alta performance.
 
 **Tecnologias:** Python, LangChain, Streamlit, Groq API
-
-[Ver no GitHub](https://github.com/DaviSantiago01)
-
-### Outros Projetos
-- **[RAG System](https://github.com/DaviSantiago01/Langchain-Rag-System)** - Q&A com documentos PDF
-- **[Perplexity Clone](https://github.com/DaviSantiago01/Perplexity-Clone-LangGraph)** - Sistema de busca com IA
 
 ---
 
@@ -77,18 +62,10 @@ Chatbot conversacional com IA generativa usando LangChain e Groq API.
 
 ## 🎯 Atualmente
 
-- 🔭 Desenvolvendo agentes de IA com Python e LangChain
-- 📚 Estudando técnicas avançadas de IA
-- 💼 Buscando oportunidades de estágio em tecnologia
-- 🤝 Aberto para colaborações em projetos Python e IA
+🔭 Desenvolvendo agentes de IA e soluções backend com Python | 📚 Estudando técnicas avançadas de Machine Learning | 💼 Buscando oportunidades de estágio em tecnologia | 🤝 Aberto para colaborações em projetos Python e IA
 
 ---
 
-## 📞 Contato
+## 📞 Vamos Conectar?
 
-Vamos trabalhar juntos! Estou sempre aberto a novos projetos e oportunidades de colaboração.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/davi-santiago-a94284334/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/DaviSantiago01)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:daaviisantiago@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat&logo=web)](https://portfolio-davi-santiago.vercel.app/)
+Estou sempre aberto a novos projetos e oportunidades de colaboração!
