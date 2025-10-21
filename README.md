@@ -1,4 +1,3 @@
-```markdown
 # 👋 Olá, eu sou Davi Santiago
 
 <div align="center">
@@ -19,7 +18,6 @@
 ## 🚀 Sobre Mim
 
 > Cursando **4º período** em Ciência da Computação na **CESAR School**, focado em criar soluções inteligentes com Python. Especializado em **backend**, **Machine Learning** e **AI Agents**.
-
 ```python
 class DaviSantiago:
     def __init__(self):
@@ -181,4 +179,3 @@ Trabalhando em novas soluções com IA e automação
 ⭐ **Deixe uma estrela nos repositórios se gostar do trabalho!** ⭐
 
 </div>
-```
