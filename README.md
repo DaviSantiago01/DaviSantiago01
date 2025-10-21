@@ -160,9 +160,7 @@ Trabalhando em novas soluções com IA e automação
 
 <div align="center">
 
-| 🔭 Desenvolvendo | 📚 Estudando | 💼 Buscando | 🤝 Aberto para |
-|:---:|:---:|:---:|:---:|
-| Agentes de IA com Python | ML Avançado | Estágio em Tech | Colaborações |
+🔭 Desenvolvendo agentes de IA e soluções backend com Python | 📚 Estudando técnicas avançadas de Machine Learning | 🤝 Aberto para colaborações em projetos Python e IA
 
 </div>
 
