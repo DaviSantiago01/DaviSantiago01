@@ -42,59 +42,44 @@ class DaviSantiago:
 
 ## 💻 Stack Tecnológico
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### 🐍 Core & Backend
+**Linguagens:** Python • Java • C • JavaScript • TypeScript  
+**Frameworks:** Django • Flask • FastAPI • Node.js  
+**Bancos de Dados:** PostgreSQL • SQLite • Supabase • Firebase
 
-### Backend & APIs
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-### IA & Machine Learning
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-4A90E2?style=for-the-badge&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-FF6600?style=for-the-badge&logoColor=white)
+### 🤖 IA & Data Science
+**IA/ML:** LangChain • LangGraph • CrewAI • Scikit-learn  
+**APIs IA:** OpenAI • Groq  
+**Data Science:** Pandas • NumPy • Matplotlib  
+**Automação:** n8n
 
-### Data Science & Análise
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🎨 Frontend & Design
+**Frontend:** React • Streamlit • HTML5 • CSS3 • TailwindCSS  
+**Design:** Figma • Miro
 
-### Bancos de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+</td>
+<td width="50%" valign="top">
 
-### Automação & Ferramentas
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🛠️ Ferramentas & DevOps
+**Versionamento:** Git • GitHub  
+**Containers:** Docker  
+**Testes:** Postman
 
-### Design & Colaboração
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
