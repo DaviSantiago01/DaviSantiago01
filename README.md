@@ -18,6 +18,8 @@
 
 ## 🚀 Sobre Mim
 
+<div align="center">
+
 ```python
 class DaviSantiago:
     def __init__(self):
@@ -37,48 +39,55 @@ class DaviSantiago:
         }
 ```
 
+</div>
+
 ---
 
 ## 💻 Stack Tecnológico
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🐍 Core & Backend
-**Linguagens:** Python • Java • C • JavaScript • TypeScript  
-**Frameworks:** Django • Flask • FastAPI • Node.js  
-**Bancos de Dados:** PostgreSQL • SQLite • Supabase • Firebase
+**🐍 Core & Backend**
+
+Python • Java • C • JavaScript • TypeScript  
+Django • Flask • FastAPI • Node.js  
+PostgreSQL • SQLite • Supabase • Firebase
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 IA & Data Science
-**IA/ML:** LangChain • LangGraph • CrewAI • Scikit-learn  
-**APIs IA:** OpenAI • Groq  
-**Data Science:** Pandas • NumPy • Matplotlib  
-**Automação:** n8n
+**🤖 IA & Data Science**
+
+LangChain • LangGraph • CrewAI • Scikit-learn  
+OpenAI • Groq  
+Pandas • NumPy • Matplotlib • n8n
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Frontend & Design
-**Frontend:** React • Streamlit • HTML5 • CSS3 • TailwindCSS  
-**Design:** Figma • Miro
+**🎨 Frontend & Design**
+
+React • Streamlit • HTML5 • CSS3 • TailwindCSS  
+Figma • Miro
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Ferramentas & DevOps
-**Versionamento:** Git • GitHub  
-**Containers:** Docker  
-**Testes:** Postman
+**🛠️ Ferramentas & DevOps**
+
+Git • GitHub • Docker • Postman
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
