@@ -23,10 +23,28 @@ Desenvolvedor focado em **Backend**, **AI Agents**, **Machine Learning** e **Aut
 ```python
 class DaviSantiago:
     def __init__(self):
-        self.areas_foco = ["Backend Development", "AI Agents & LLM Applications", 
-                          "Machine Learning", "Data Science", "Automação"]
+        self.nome = "Davi Santiago"
+        self.educacao = "Ciência da Computação - CESAR School (4º período)"
         self.localizacao = "Recife, PE, Brasil"
+        self.areas_foco = [
+            "Backend Development",
+            "AI Agents & LLM Applications", 
+            "Machine Learning",
+            "Data Science",
+            "Automação de Processos"
+        ]
+        self.trabalho_atual = "Desenvolvedor Freelancer"
         self.idiomas = {"português": "nativo", "inglês": "intermediário"}
+    
+    def stack_principal(self):
+        return {
+            "backend": ["Django", "FastAPI"],
+            "ia_ml": ["LangChain", "LangGraph", "Scikit-learn"],
+            "automacao": ["n8n", "Make"],
+            "data_science": ["Pandas", "NumPy"],
+            "frontend": ["React", "Next.js", "TypeScript"],
+            "databases": ["PostgreSQL", "SQLite", "Supabase", "Firebase"]
+        }
 ```
 
 ---
