@@ -130,15 +130,3 @@ Aplicação educacional demonstrando fundamentos de IA conversacional com interf
 🤝 Aberto para colaborações em projetos de Backend, IA e Automação
 
 ---
-
-## 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davisantiago01/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://davisantiago.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daaviisantiago@gmail.com)
-
-⭐ **Se gostou dos projetos, deixe uma estrela!** ⭐
-
-</div>
