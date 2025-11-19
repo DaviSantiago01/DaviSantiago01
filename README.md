@@ -96,13 +96,6 @@ class DaviSantiago:
 
 ## 🎯 Projetos em Destaque
 
-### 🤖 [RAG System - Q&A com PDFs](https://github.com/DaviSantiago01/Langchain-Rag-System)
-Sistema de Retrieval-Augmented Generation para consultas inteligentes em documentos PDF utilizando IA generativa, com busca semântica e respostas contextualizadas.
-
-**Tech Stack:** Python • LangChain • ChromaDB • Streamlit • LLM APIs
-
----
-
 ### 🔍 [Perplexity Clone com LangGraph](https://github.com/DaviSantiago01/Perplexity-Clone-LangGraph)
 Sistema de busca avançado combinando orquestração LangGraph com integração de APIs de busca para pesquisas inteligentes e respostas fundamentadas em fontes confiáveis.
 
