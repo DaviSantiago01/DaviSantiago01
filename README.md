@@ -35,16 +35,6 @@ class DaviSantiago:
         ]
         self.trabalho_atual = "Desenvolvedor Freelancer"
         self.idiomas = {"português": "nativo", "inglês": "intermediário"}
-    
-    def stack_principal(self):
-        return {
-            "backend": ["Django", "FastAPI"],
-            "ia_ml": ["LangChain", "LangGraph", "Scikit-learn"],
-            "automacao": ["n8n", "Make"],
-            "data_science": ["Pandas", "NumPy"],
-            "frontend": ["React", "Next.js", "TypeScript"],
-            "databases": ["PostgreSQL", "SQLite", "Supabase", "Firebase"]
-        }
 ```
 
 ---
