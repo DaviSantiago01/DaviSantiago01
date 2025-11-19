@@ -33,7 +33,6 @@ class DaviSantiago:
             "Data Science",
             "Automação de Processos"
         ]
-        self.trabalho_atual = "Desenvolvedor Freelancer"
         self.idiomas = {"português": "nativo", "inglês": "intermediário"}
 ```
 
