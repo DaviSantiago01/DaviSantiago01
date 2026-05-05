@@ -6,8 +6,8 @@
 
 🎓 **CESAR School** | 📍 **Recife, PE, Brasil**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davisantiago01/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://davisantiago.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davisantiagoia/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://davisantiagoia.site/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daaviisantiago@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=DaviSantiago01&color=0077B5&style=for-the-badge&label=VISUALIZAÇÕES" alt="Profile Views"/>
