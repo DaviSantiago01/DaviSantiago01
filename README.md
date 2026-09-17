@@ -109,24 +109,3 @@ Aplicação educacional demonstrando fundamentos de IA conversacional com interf
 **Tech Stack:** Python • LangChain • Streamlit • LLM APIs
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviSantiago01&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSantiago01&layout=compact&theme=tokyonight&border_radius=10&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaviSantiago01&theme=tokyonight&hide_border=true&border_radius=10)
-
-</div>
-
----
-
-## 🎯 Atualmente
-
-🔭 Desenvolvendo soluções backend e agentes de IA  
-📚 Aprofundando conhecimentos em Machine Learning e Data Science  
-🤝 Aberto para colaborações em projetos de Backend, IA e Automação
-
----
