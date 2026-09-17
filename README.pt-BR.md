@@ -15,7 +15,6 @@
 Desenvolvo **sistemas backend e produtos com IA aplicada**, com foco em transformar experimentos com IA em aplicações úteis e fáceis de manter.
 
 - 🎓 Estudante do **5º período de Ciência da Computação na CESAR School**, em Recife, Brasil.
-- 💻 **Engenheiro de Software na e-Flow**, atuando com serviços backend, aplicações com IA, integrações e automações.
 - 🤖 Grande parte dos meus projetos envolve **LLMs, RAG, agentes de IA e tool calling**, normalmente com Python, FastAPI e PostgreSQL.
 - 🧪 Também valorizo a engenharia ao redor da IA: **APIs, bancos de dados, testes automatizados, CI/CD, Docker e observabilidade**.
 - 🌱 Atualmente estou aprofundando meus conhecimentos em **engenharia de IA, cloud e sistemas preparados para produção**.
@@ -24,7 +23,7 @@ Desenvolvo **sistemas backend e produtos com IA aplicada**, com foco em transfor
 
 Acompanhe meus projetos e conteúdos técnicos:
 
-💼 [**LinkedIn** (linkedin.com/in/davisantiagoia)](https://www.linkedin.com/in/davisantiagoia/) · 🌐 [**Portfólio** (davisantiagoia.site)](https://davisantiagoia.site/) · ✉️ [**Email** (daaviisantiago@gmail.com)](mailto:daaviisantiago@gmail.com)
+💼 [**LinkedIn** (linkedin.com/in/davisantiagoia)](https://www.linkedin.com/in/davisantiagoia/) · 📸 [**Instagram** (@davisantiago.ia)](https://www.instagram.com/davisantiago.ia/) · 🌐 [**Portfólio** (davisantiagoia.site)](https://davisantiagoia.site/) · ✉️ [**Email** (daaviisantiago@gmail.com)](mailto:daaviisantiago@gmail.com)
 
 ## 🚀 Projetos em destaque
 
