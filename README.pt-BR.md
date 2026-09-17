@@ -3,7 +3,7 @@
 
   # Davi Santiago
 
-  **AI & Backend Developer | AI Agents · RAG · Automations**
+  **Desenvolvedor de IA & Backend | AI Agents · RAG · Automations**
 
   Estudante de Ciência da Computação na CESAR School, em Recife, Brasil.
 
