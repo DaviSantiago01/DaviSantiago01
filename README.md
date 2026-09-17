@@ -15,7 +15,6 @@
 I build **backend systems and applied AI products**, with a focus on turning AI experiments into useful, maintainable applications.
 
 - 🎓 **5th-semester Computer Science student at CESAR School**, based in Recife, Brazil.
-- 💻 **Software Engineer at e-Flow**, working on backend services, AI-powered applications, integrations and automations.
 - 🤖 Most of my projects involve **LLMs, RAG, AI agents and tool calling**, usually with Python, FastAPI and PostgreSQL.
 - 🧪 I also care about the engineering around AI: **APIs, databases, automated testing, CI/CD, Docker and observability**.
 - 🌱 Currently deepening my knowledge of **AI engineering, cloud and production-ready systems**.
@@ -24,7 +23,7 @@ I build **backend systems and applied AI products**, with a focus on turning AI 
 
 Follow my work, projects and technical content:
 
-💼 [**LinkedIn** (linkedin.com/in/davisantiagoia)](https://www.linkedin.com/in/davisantiagoia/) · 🌐 [**Portfolio** (davisantiagoia.site)](https://davisantiagoia.site/) · ✉️ [**Email** (daaviisantiago@gmail.com)](mailto:daaviisantiago@gmail.com)
+💼 [**LinkedIn** (linkedin.com/in/davisantiagoia)](https://www.linkedin.com/in/davisantiagoia/) · 📸 [**Instagram** (@davisantiago.ia)](https://www.instagram.com/davisantiago.ia/) · 🌐 [**Portfolio** (davisantiagoia.site)](https://davisantiagoia.site/) · ✉️ [**Email** (daaviisantiago@gmail.com)](mailto:daaviisantiago@gmail.com)
 
 ## 🚀 Featured projects
 
