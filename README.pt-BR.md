@@ -88,8 +88,8 @@ Aplicação de busca com IA, pesquisas paralelas, respostas fundamentadas em fon
   </picture>
 </p>
 
-**Backend & dados:** `SQLAlchemy` · `Alembic` · `Pydantic` · `PostgreSQL` · `Supabase` · `SQLite` · `pgvector`
+⚙️ **Backend & dados:** `SQLAlchemy` · `Alembic` · `Pydantic` · `PostgreSQL` · `Supabase` · `SQLite` · `pgvector`
 
-**IA & automação:** `LangChain` · `LangGraph` · `OpenAI API` · `RAG` · `ChromaDB` · `Ollama` · `n8n` · `Pandas` · `NumPy` · `scikit-learn`
+🤖 **IA & automação:** `LangChain` · `LangGraph` · `OpenAI API` · `RAG` · `ChromaDB` · `Ollama` · `n8n` · `Pandas` · `NumPy` · `scikit-learn`
 
-**Testes & entrega:** `Pytest` · `Playwright` · `Selenium` · `Postman` · `Docker Compose` · `GitHub Actions` · `VPS`
+🧪 **Testes & entrega:** `Pytest` · `Playwright` · `Selenium` · `Postman` · `Docker Compose` · `GitHub Actions` · `VPS`
