@@ -82,7 +82,11 @@ Aplicação de busca com IA, pesquisas paralelas, respostas fundamentadas em fon
 ## 🛠️ Tecnologias & ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,githubactions,ts,nextjs,react,aws&perline=10" alt="Tecnologias principais: Python, FastAPI, PostgreSQL, Docker, Git, GitHub Actions, TypeScript, Next.js, React e AWS" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,githubactions,ts,nextjs,react,aws&perline=10&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,githubactions,ts,nextjs,react,aws&perline=10&theme=light">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,githubactions,ts,nextjs,react,aws&perline=10" alt="Tecnologias principais: Python, FastAPI, PostgreSQL, Docker, Git, GitHub Actions, TypeScript, Next.js, React e AWS" />
+  </picture>
 </p>
 
 **Backend & dados:** `SQLAlchemy` · `Alembic` · `Pydantic` · `PostgreSQL` · `Supabase` · `SQLite` · `pgvector`
