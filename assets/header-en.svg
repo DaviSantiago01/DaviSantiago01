@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Davi Santiago</title>
+  <desc id="desc">Backend, AI and Automations. A navy banner with lavender lettering and a connected network illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#131D35"/><stop offset="1" stop-color="#252443"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#BCA9F5"/><stop offset="1" stop-color="#72D5D0"/></linearGradient>
+  </defs>
+  <style>
+    .intro { animation: enter .8s ease-out both; }
+    .network { stroke-dasharray: 6 10; animation: flow 12s linear 1; }
+    @keyframes enter { from { opacity: 0; transform: translateY(7px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes flow { to { stroke-dashoffset: -96; } }
+    @media (prefers-reduced-motion: reduce) { .intro,.network { animation: none; } }
+  </style>
+  <rect width="900" height="220" rx="16" fill="url(#bg)"/>
+  <path d="M0 194 Q230 156 450 194 T900 186 V220 H0Z" fill="#BCA9F5" opacity=".08"/>
+  <path d="M0 207 Q230 172 450 203 T900 198" fill="none" stroke="#BCA9F5" opacity=".2"/>
+  <g class="intro" font-family="Segoe UI,Arial,sans-serif">
+    <text x="38" y="54" fill="#72D5D0" font-size="13" font-weight="600" letter-spacing="3">BACKEND / AI / AUTOMATIONS</text>
+    <text x="36" y="112" fill="#F4F1FF" font-size="39" font-weight="700">Hi, I'm <tspan fill="#C9B8FF">Davi Santiago</tspan></text>
+    <text x="38" y="152" fill="#BCC6DB" font-size="17">Connecting ideas, code and intelligence.</text>
+  </g>
+  <g fill="none" stroke="url(#line)" stroke-width="1.5" opacity=".8">
+    <path d="M711 66 L793 110 L711 156 L651 110 Z M711 66 V156 M651 110 H793" class="network"/>
+    <circle cx="711" cy="66" r="9" fill="#20243E"/><circle cx="793" cy="110" r="9" fill="#20243E"/>
+    <circle cx="711" cy="156" r="9" fill="#20243E"/><circle cx="651" cy="110" r="9" fill="#20243E"/>
+    <circle cx="711" cy="110" r="16" fill="#20243E"/>
+  </g>
+  <circle cx="711" cy="110" r="5" fill="#72D5D0"/>
+</svg>

@@ -1,112 +1,54 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/180877878?v=4" width="120" alt="Davi Santiago profile picture" />
+<p align="center">
+  <img src="./assets/header-en.svg" width="100%" alt="Hi, I'm Davi Santiago — Backend, AI and Automations" />
+</p>
 
-  # Davi Santiago
+<p align="center">
+  <strong>Computer Science Student <a href="https://www.cesar.school/">@CESAR School</a> | Backend | AI Engineer | Automation</strong>
+</p>
 
-  **AI & Backend Developer | AI Agents · RAG · Automations**
+<p align="center">
+  🌐 <strong>Choose your language / Escolha seu idioma</strong><br><br>
+  <strong>English · current</strong>  ·  
+  <a href="./README.pt-BR.md"><img src="./assets/read-portuguese.svg" height="34" align="middle" alt="Clique para ler em Português →" /></a>
+</p>
 
-  Computer Science student at CESAR School, based in Recife, Brazil.
+## 👋 A little about me
 
-  <a href="./README.md"><img src="https://img.shields.io/badge/English-2563EB?style=for-the-badge" alt="Read in English"></a>
-  <a href="./README.pt-BR.md"><img src="https://img.shields.io/badge/Português-111827?style=for-the-badge" alt="Ler em Português"></a>
+I connect **AI agents, backend APIs and automations** to build useful applications — from document assistants to tools that run in the terminal.
 
-  <br><br>
+- 🎓 **Computer Science** student at **CESAR School**, based in Recife, Brazil.
+- 🧠 **Applied AI:** LLMs, RAG, tool-calling agents and local models.
+- ⚙️ **Backend:** Python, FastAPI, REST APIs and PostgreSQL.
+- 🔗 **Automations:** connecting tools, data and everyday workflows.
 
-  <a href="https://www.linkedin.com/in/davisantiagoia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://davisantiagoia.site/"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:daaviisantiago@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/davisantiagoia/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="https://davisantiagoia.site/"><img src="https://img.shields.io/badge/Portfolio-Explore-7161C5?style=for-the-badge" alt="Explore my portfolio" /></a>
+  <a href="mailto:daaviisantiago@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-167D8D?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" /></a>
+</p>
 
-## About me
-
-I build **AI agents, backend services, RAG applications, and automations**. I work mainly with Python and modern LLM tooling, connecting APIs, databases, and web interfaces to turn ideas into functional end-to-end products.
-
-I am currently deepening my knowledge of agent architectures, data persistence, local and cloud model integrations, and scalable backend systems.
-
-## Tech stack
-
-**AI & Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-
-**Frontend & Data**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Tools & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Fundamentals-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-> Currently exploring AWS serverless architecture with Lambda, API Gateway, DynamoDB, S3, and Terraform.
-
-## Featured projects
+## 🚀 Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Terminal Agent](https://github.com/DaviSantiago01/Terminal-Agent)
+<details>
+<summary><strong>📂 Explore more: backend, data & automations</strong></summary>
 
-Terminal-first AI assistant with task-oriented tools, real-time logs, and persistent history in PostgreSQL.
+- [Database System](https://github.com/DaviSantiago01/Projeto-Banco-De-Dados) — academic team project with Java, Spring Boot, JDBC, PostgreSQL and React.
+- [Product API](https://github.com/DaviSantiago01/Registro-Produto-API) — product registration, validation and event logging with FastAPI and SQLite.
+- [File Organizer](https://github.com/DaviSantiago01/Organizador-De-Arquivos-Py) — Python automations to sort downloaded files by category.
 
-**Python · LangGraph · LangChain · Typer · SQLAlchemy**
+</details>
 
-</td>
-<td width="50%" valign="top">
+## 🛠️ Technologies & tools
 
-### [Finch — Financial Agent](https://github.com/DaviSantiago01/AgentIA-Financeiro-Bootcamp-Bradesco)
+**Backend & data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![Spring Boot](<https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white>)
 
-MVP of an educational investment agent with safety boundaries, a local model, and a full-stack architecture.
+**AI & automations**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-7161C5?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-222222?style=flat-square&logo=ollama&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**Next.js · TypeScript · FastAPI · Ollama**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [RAG System](https://github.com/DaviSantiago01/Sistema-RAG)
-
-Application that indexes PDF documents and answers questions through vector retrieval with source references.
-
-**FastAPI · LangChain · ChromaDB · Streamlit · PostgreSQL**
-
-</td>
-<td width="50%" valign="top">
-
-### [Database System](https://github.com/DaviSantiago01/Projeto-Banco-De-Dados)
-
-Academic full-stack catalog and sales application built with a REST API, plain JDBC, and relational data modeling.
-
-**Java · Spring Boot · PostgreSQL · React · Vite**
-
-</td>
-</tr>
-</table>
-
-## What I am working on
-
-- AI agents with tools, memory, and persistence;
-- RAG applications with context retrieval and sources;
-- backend APIs, data modeling, and integrations;
-- automations for workflows and productivity.
-
-## Get in touch
-
-I am open to collaborations, internship opportunities, and projects involving **applied AI, backend development, and automations**.
-
-**[LinkedIn](https://www.linkedin.com/in/davisantiagoia/) · [Portfolio](https://davisantiagoia.site/) · [Email](mailto:daaviisantiago@gmail.com)**
+**Interfaces & infrastructure**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-222222?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
