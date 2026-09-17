@@ -88,8 +88,8 @@ AI search application with parallel research, source-grounded answers, authentic
   </picture>
 </p>
 
-**Backend & data:** `SQLAlchemy` · `Alembic` · `Pydantic` · `PostgreSQL` · `Supabase` · `SQLite` · `pgvector`
+⚙️ **Backend & data:** `SQLAlchemy` · `Alembic` · `Pydantic` · `PostgreSQL` · `Supabase` · `SQLite` · `pgvector`
 
-**AI & automation:** `LangChain` · `LangGraph` · `OpenAI API` · `RAG` · `ChromaDB` · `Ollama` · `n8n` · `Pandas` · `NumPy` · `scikit-learn`
+🤖 **AI & automation:** `LangChain` · `LangGraph` · `OpenAI API` · `RAG` · `ChromaDB` · `Ollama` · `n8n` · `Pandas` · `NumPy` · `scikit-learn`
 
-**Testing & delivery:** `Pytest` · `Playwright` · `Selenium` · `Postman` · `Docker Compose` · `GitHub Actions` · `VPS`
+🧪 **Testing & delivery:** `Pytest` · `Playwright` · `Selenium` · `Postman` · `Docker Compose` · `GitHub Actions` · `VPS`
